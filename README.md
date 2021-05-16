@@ -1,2 +1,2 @@
 # CHIP-8
-CHIP=8 Emulator
+CHIP-8 Emulator
